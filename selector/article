@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta name="filetype" content="2"> 
+<meta name="publishedtype" content="1"> 
+<meta name="pagetype" content="2"> 
+<meta name="catalogs" content="n_1258">
+<title>国际新闻_国际新闻_环球网</title>
+<meta name="keywords" content="国际时事,时政要闻,国际热点,新闻人物,国际博览,评论分析,外媒关注,媒体聚焦">
+<meta name="description" content="环球网王牌频道，专门显示国际时事、综述评论及图片的栏目，主要包括环球时报和环球网的最新独家新闻、国际博览、新闻人物、评论分析、媒体聚焦等。">
+<link href="http://himg2.huanqiu.com/statics/images/favicon1.ico" rel="shortcut icon" />
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/common/common.css" rel="stylesheet" type="text/css"/>
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/news/skinNews.css" rel="stylesheet" type="text/css"/>
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/news/layoutLook.css" rel="stylesheet" type="text/css"/>
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/common/layoutListPic.css" rel="stylesheet" type="text/css"/>
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/common/pubTopBottom.css" rel="stylesheet" type="text/css"/>
+<link href="http://himg2.huanqiu.com/statics/hq2013/css/topLogin/topLogin.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+.pageBox span { background:url(http://himg2.huanqiu.com/statics/hq2013/images/common/btnPage.png) no-repeat;}
+.pageBox span { background-position:-180px -40px; color:#fff; display:inline-block; width:30px; height:30px; line-height:30px; font-family:Arial,Simsun; font-size:14px; margin:0 5px 10px; vertical-align:top; overflow:hidden;/*zoom:1;*display:inline;*/ font-style:normal;}
+</style>
+<!-- 统计代码 -->
+<script type="text/javascript">
+    // 百度统计 
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F1fc983b4c305d209e7e05d96e713939f' type='text/javascript'%3E%3C/script%3E"));
+    // cnzz 统计
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan style='display:none' id='cnzz_stat_icon_1000010102'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s22.cnzz.com/z_stat.php%3Fid%3D1000010102' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<!-- /end 统计代码 -->
+</head>
+
+<body>
+<!-- 公共头部分 begin -->
+<div class="topIndex">
+	        <!--str:hdTop-->
+        <div class="hdTop">
+            <div class="hdTopCon">
+                <span class="hdtMenu ui-topMenu">
+                    <em class="hdtmArr"></em>
+                    <div class="hdtmList">
+                        <ul>
+                            <li>
+                                <ul class="hdtmSubList">
+                                    <li><a href="http://world.huanqiu.com/" target="_blank">国际</a></li>
+                                    <li><a href="http://mil.huanqiu.com/" target="_blank">军事</a></li>
+                                    <li><a href="http://china.huanqiu.com/" target="_blank">国内</a></li>
+                                    <li><a href="http://society.huanqiu.com/" target="_blank">社会</a></li>
+                                    <li><a href="http://taiwan.huanqiu.com/" target="_blank">台海</a></li>
+                                    <li><a href="http://opinion.huanqiu.com/" target="_blank">评论</a></li>
+									<li><a href="http://look.huanqiu.com/" target="_blank">博览</a></li>
+									<li><a href="http://photo.huanqiu.com/" target="_blank">图片</a></li>
+                                </ul>                    
+                            </li>
+
+							<li>
+                                <ul class="hdtmSubList">
+                                    <li><a href="http://finance.huanqiu.com/" target="_blank">财经</a></li>
+                                    <li><a href="http://tech.huanqiu.com/" target="_blank">科技</a></li>
+                                    <li><a href="http://auto.huanqiu.com/" target="_blank">汽车</a></li>
+                                    <li><a href="http://tech.huanqiu.com/digi/" target="_blank">数码</a></li>
+                                    <li><a href="http://lx.huanqiu.com/" target="_blank">留学</a></li>
+                                    <li><a href="http://game.huanqiu.com/" target="_blank">游戏</a></li>
+                                </ul>                    
+                            </li>
+
+							<li>
+                                <ul class="hdtmSubList">
+                                    <li><a href="http://ent.huanqiu.com/" target="_blank">娱乐</a></li>
+                                    <li><a href="http://fashion.huanqiu.com/" target="_blank">时尚</a></li>
+                                    <li><a href="http://sports.huanqiu.com/" target="_blank">体育</a></li>
+                                    <li><a href="http://go.huanqiu.com/" target="_blank">旅行</a></li>
+                                    <li><a href="http://health.huanqiu.com/" target="_blank">健康</a></li>
+                                    <li><a href="http://hope.huanqiu.com/" target="_blank">公益</a></li>
+									<li><a href="http://women.huanqiu.com/" target="_blank">女人</a></li>
+                                    <li><a href="http://v.huanqiu.com/" target="_blank">视频</a></li>
+                                </ul>                    
+                            </li>
+
+                            <li class="noBor">
+                                <ul class="hdtmSubList">
+									<li><a href="http://history.huanqiu.com/" target="_blank">历史</a></li>
+									<li><a href="http://xiaoshuo.huanqiu.com/" target="_blank">小说</a></li>
+									<li style="width:86px"><a href="http://oversea.huanqiu.com/" target="_blank">海外看中国</a></li>
+                                </ul>                    
+                            </li>
+                            <!-- <li class="noBor">
+                                <ul class="hdtmSubList">
+                                    <li><a href="http://hi.huanqiu.com/" target="_blank">万国</a></li>
+                                    <li><a href="http://bbs.huanqiu.com/" target="_blank">论坛</a></li>
+                                    <li><a href="http://v.huanqiu.com/" target="_blank">视频</a></li>
+                                  
+                                    <li><a href="http://hope.huanqiu.com/" target="_blank">公益</a></li>
+                                    <li><a href="http://photo.huanqiu.com/" target="_blank">图片</a></li>
+                                </ul>                    
+                            </li> -->
+                        </ul>
+                    </div>
+                </span>
+                <!--str:登陆前-->
+                <div class="hdBefore ui-loginBefore" style="">
+					<a href="http://i.huanqiu.com/register" target="_blank" class="hdtReg">注册</a>
+					<span class="hdtLogin ui-topLogin"><div class="hdtLogBoxWrap">登录</div></span>
+                </div>
+                <!--end:登陆前-->
+               <!--str:登陆后-->
+               <div class="hdLogged ui-loginAfter" style="display: none;">
+                    <a href="http://i.huanqiu.com/logout" target="_self" class="hdtExit">退出</a>
+                    <a href="http://i.huanqiu.com/center/" target="_blank" class="hdtName ui-username"></a><span class="hdtWel">欢迎你</span>
+		</div>
+               <!--end:登陆后-->
+            </div>
+        </div>
+        <!--end:hdTop--></div>
+<!-- 公共头部分 end -->
+
+<!-- 频道头 begin-->
+<div class="channelHead">
+    <div class="newsNav">
+    <div class="newsNavCon">
+        <a href="http://news.huanqiu.com/">
+        <div class="newsLogo">
+            <h1>环球新闻</h1>
+        </div>
+        </a>
+        <div class="navNews">
+            <ul>
+				<li><span><a href="http://news.huanqiu.com/?">首页</a></span></li>
+                <li><span><a href="http://china.huanqiu.com/?">国内</a></span></li>
+                <li class="current"><span><a href="http://world.huanqiu.com/?">国际</a></span></li>
+                <li><span><a href="http://taiwan.huanqiu.com/?">台海</a></span></li>
+                <li><span><a href="http://opinion.huanqiu.com/?">评论</a></span></li>
+                <li><span><a href="http://look.huanqiu.com/?">博览</a></span></li>
+                <li><span><a href="http://ent.huanqiu.com/?">娱乐</a></span></li>
+                <li><span><a href="http://fashion.huanqiu.com/?">时尚</a></span></li>
+                <li><span><a href="http://sports.huanqiu.com/?">体育</a></span></li>
+                <li><span><a href="http://v.huanqiu.com/?">视频</a></span></li>
+                <li><span><a href="http://photo.huanqiu.com/?" target="_blank">图片</a></span></li>
+                <li><span><a href="http://oversea.huanqiu.com/?">海外看中国</a></span></li>
+                <li><span><a href="http://society.huanqiu.com/?">社会</a></span></li>
+            </ul>
+        </div>
+        <div class="search">
+            <form action="http://s.huanqiu.com/s/" method="get"  id="ui-topSearch">
+                    <input name="q" type="text" class="searchBox"  id="ui-topSearchKeyWord" />
+                    <input name="" type="submit" class="searchBtn" value=" " id="ui-topSearchBtn"  />
+            </form>
+        </div>
+    </div>
+</div></div>
+<!-- 频道头 end-->
+
+<div class="box">
+	<!-- 内容部分 begin-->
+	<div class="boxCon">
+    
+    	<!-- 顶通 begin -->
+        <div class="adDt" id="adDt"></div>
+        <!-- 顶通 end -->
+        
+        <!-- 面包屑 begin -->
+        <div class="location">
+            <strong>您的位置：</strong><a href="http://www.huanqiu.com/">环球网</a><em>></em><a href="http://world.huanqiu.com/">国际新闻</a><em>></em>滚动新闻
+        </div>
+        <!-- 面包屑 end -->
+        
+        <!-- 内容第一部分 begin-->
+        <div class="fallsFlow">
+
+        	<ul class="listPicBox">
+						 			            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487444.html" title="法国巴黎一周内3所中学再遭安全威胁" target="_blank">法国巴黎一周内3所中学再遭安全威胁</a></h3>
+                                                  <h5>法国首都巴黎教育部门和警方1日说，当天上午，位于巴黎第五区和第九区的3所中学接到威胁电话，警方随后抵达现场处理情况。这是巴黎地区的中学一周内再次遭到安全威胁。此次涉及的中学是孔多塞中学、亨利四世中学和路易大帝中学。警方介绍说，有人在电话里威胁说“你们都会死去”。事发后，学校立即将学生安置到安全场所。上月26日，巴黎地区的亨利四世中学等6所中学接到匿名电话，称校内被放置可疑包裹。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487444.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 23:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487438.html" title="印度海滨发生大学生集体溺水事故 至少10人死亡" target="_blank">印度海滨发生大学生集体溺水事故 至少10人死亡</a></h3>
+                                                  <h5>印度警方1日说，印度西部马哈拉施特拉邦一处海滨当天发生集体溺水事故，20多名大学生被海浪卷走，至少有10人溺亡，另有数人失踪。事件发生在离孟买约150公里的赖戈德地区一处海滩，马哈拉施特拉邦一所高校的约120名大学生在那里度假，有20多名大学生在海边游泳时被海浪卷走。除4人获救外，至少有10人溺水身亡、数人失踪。当地警察和海岸警卫队正在对失踪者进行搜救。当地媒体说，死者大多是高年级计算机本科学生。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487438.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 23:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487433.html" title="国防部谈组建战区：对作战指挥职能进行了调整规范" target="_blank">国防部谈组建战区：对作战指挥职能进行了调整规范</a></h3>
+                                                  <h5>中国日报北京2月1日电（记者张陨璧）2月1日，国防部举行专题记者会，国防部新闻局局长、国防部新闻发言人杨宇军大校就战区调整组建有关问题答记者问表示，这轮改革与成立战区相适应，调整组建了战区军种机关，这轮改革对军委联指、各军种、战区联指和战区军种的作战指挥职能进行了调整规范。对于战区是否设战区军种机关，杨宇军表示，这轮改革与成立战区相适应，调整组建了战区军种机关。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487433.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 23:12</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487423.html" title="印度海滨发生大学生集体溺水事故 至少10人死亡" target="_blank">印度海滨发生大学生集体溺水事故 至少10人死亡</a></h3>
+                                                  <h5>印度警方1日说，印度西部马哈拉施特拉邦一处海滨当天发生集体溺水事故，20多名大学生被海浪卷走，至少有10人溺亡，另有数人失踪。事件发生在离孟买约150公里的赖戈德地区一处海滩，马哈拉施特拉邦一所高校的约120名大学生在那里度假，有20多名大学生在海边游泳时被海浪卷走。除4人获救外，至少有10人溺水身亡、数人失踪。当地警察和海岸警卫队正在对失踪者进行搜救。当地媒体说，死者大多是高年级计算机本科学生。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487423.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 23:11</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487421.html" title="印度西海岸13名学生游泳时溺亡" target="_blank">印度西海岸13名学生游泳时溺亡</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，印度警方称，当地时间2月1日，13名印度学生在西海岸沿海地区游泳时溺亡。报道称，据警方介绍，事发地在孟买以南约140公里的穆鲁德海滩。报道指出，遇难的学生在19至23岁之间，分别为10名女性学生和3名男性学生。目前，警方正在对学生们溺水的具体原因展开调查。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487421.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 23:11</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487348.html" title="俄反腐动画片讲述普京"花样打虎记"（图）" target="_blank">俄反腐动画片讲述普京"花样打虎记"（图）</a></h3>
+                                                  <h5>新华网北京2月1日电俄罗斯媒体1月30日报道，由“全俄人民阵线”制作、描述俄总统普京如何“消灭贪官”的系列动画在网上发出后，引发热议。新华国际客户端了解到，这一系列动画以《受普京接见》为题，描述了普京与多位贪腐的政府官员或俄企业高层见面后“除贪”的场景。据俄媒报道，在影片中，以普京为原型的主角接见多名腐败的企业代表、承包商和官员，这些腐败分子就预算开支等问题一通狡辩之后，被主角果断用各种方式“消灭”。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487348.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:15</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487334.html" title="印度西海岸13名学生游泳时溺亡" target="_blank">印度西海岸13名学生游泳时溺亡</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，印度警方称，当地时间2月1日，13名印度学生在西海岸沿海地区游泳时溺亡。报道称，据警方介绍，事发地在孟买以南约140公里的穆鲁德海滩。报道指出，遇难的学生在19至23岁之间，分别为10名女性学生和3名男性学生。目前，警方正在对学生们溺水的具体原因展开调查。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487334.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487333.html" title="澳大利亚两大知名超市被曝食品卫生问题" target="_blank">澳大利亚两大知名超市被曝食品卫生问题</a></h3>
+                                                  <h5>大多数消费者称，他们在两大超市购买的瓜果蔬菜不新鲜，有时会买到腐烂或发霉的食品。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487333.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487323.html" title="法国巴黎一周内3所中学再遭安全威胁" target="_blank">法国巴黎一周内3所中学再遭安全威胁</a></h3>
+                                                  <h5>法国首都巴黎教育部门和警方1日说，当天上午，位于巴黎第五区和第九区的3所中学接到威胁电话，警方随后抵达现场处理情况。这是巴黎地区的中学一周内再次遭到安全威胁。此次涉及的中学是孔多塞中学、亨利四世中学和路易大帝中学。警方介绍说，有人在电话里威胁说“你们都会死去”。事发后，学校立即将学生安置到安全场所。上月26日，巴黎地区的亨利四世中学等6所中学接到匿名电话，称校内被放置可疑包裹。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487323.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487307.html" title="印度海滨发生大学生集体溺水事故 至少10人死亡" target="_blank">印度海滨发生大学生集体溺水事故 至少10人死亡</a></h3>
+                                                  <h5>印度警方1日说，印度西部马哈拉施特拉邦一处海滨当天发生集体溺水事故，20多名大学生被海浪卷走，至少有10人溺亡，另有数人失踪。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487307.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:11</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487305.html" title="国防部谈组建战区：对作战指挥职能进行了调整规范" target="_blank">国防部谈组建战区：对作战指挥职能进行了调整规范</a></h3>
+                                                  <h5>中国日报北京2月1日电（记者张陨璧）2月1日，国防部举行专题记者会，国防部新闻局局长、国防部新闻发言人杨宇军大校就战区调整组建有关问题答记者问表示，这轮改革与成立战区相适应，调整组建了战区军种机关，这轮改革对军委联指、各军种、战区联指和战区军种的作战指挥职能进行了调整规范。对于战区是否设战区军种机关，杨宇军表示，这轮改革与成立战区相适应，调整组建了战区军种机关。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487305.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:11</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487303.html" title="印度海滨发生大学生集体溺水事故 至少10人死亡" target="_blank">印度海滨发生大学生集体溺水事故 至少10人死亡</a></h3>
+                                                  <h5>印度警方1日说，印度西部马哈拉施特拉邦一处海滨当天发生集体溺水事故，20多名大学生被海浪卷走，至少有10人溺亡，另有数人失踪。事件发生在离孟买约150公里的赖戈德地区一处海滩，马哈拉施特拉邦一所高校的约120名大学生在那里度假，有20多名大学生在海边游泳时被海浪卷走。除4人获救外，至少有10人溺水身亡、数人失踪。当地警察和海岸警卫队正在对失踪者进行搜救。当地媒体说，死者大多是高年级计算机本科学生。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487303.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 22:11</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487275.html" title="第27届世界大学生和平大使选拔总决赛落幕" target="_blank">第27届世界大学生和平大使选拔总决赛落幕</a></h3>
+                                                  <h5>由世界大学生和平大使基金会、世界大学生和平大使组织基金会、中国社会福利基金会、中华社会救助基金会主办，中国人民友好协会支持的第27届世界大学生和平大使选拔总决赛，经过15天在北京、上海、厦门的携手公益、和平主题论坛、游学茶文化和总决赛及访问中国人民对外友好协会等活动，日前在北京鸟巢文化中心落幕。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487275.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:44</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487268.html" title="喀布尔发生自杀式汽车炸弹袭击 至少10人遇难" target="_blank">喀布尔发生自杀式汽车炸弹袭击 至少10人遇难</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，当地时间2月1日下午，阿富汗首都喀布尔一处警察局外发生自杀式汽车炸弹袭击。而阿富汗内政部刚刚在其“推特”官方页面上表示，到目前为止，袭击已造成至少10人遇难。报道称，内政部表示，有10人遇难，另有20人受伤。但喀布尔警方目前将遇难人数更新到9人。内政部发言人赛德克称，爆炸袭击发生在当天下午，喀布尔动物园附近的一处闹市区中。他表示，从目前掌握的情报来看，袭击者原本的目标是警察局。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487268.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:42</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487263.html" title="阿富汗首都发生自杀式袭击致10死20伤" target="_blank">阿富汗首都发生自杀式袭击致10死20伤</a></h3>
+                                                  <h5>阿富汗首都喀布尔１日下午发生一起自杀式爆炸袭击事件，造成至少１０人死亡、２０人受伤。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487263.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:42</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487252.html" title="大马士革连环袭击遇难人数升至76人 110人受伤" target="_blank">大马士革连环袭击遇难人数升至76人 110人受伤</a></h3>
+                                                  <h5>当地时间2016年1月31日，叙利亚大马士革，大马士革南郊发生连环爆炸袭击事件。一位不愿透露姓名的叙利亚安全部门消息人士当天告诉记者，大马士革南郊赛达·宰纳卜镇发生连环爆炸事件。恐怖分子先在一个公交车站旁引爆了汽车炸弹，随后在救援人员抵达时，另有两名自杀式袭击者引爆了绑在身上的炸弹。由于多人伤势较重，死亡人数可能进一步上升。目前，极端组织已宣称制造了连环爆炸袭击事件。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487252.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487246.html" title="“东海救101”轮将抵达南印度洋搜寻马航MH370客机" target="_blank">“东海救101”轮将抵达南印度洋搜寻马航MH370客机</a></h3>
+                                                  <h5>记者1日从中国海上搜救中心获悉，交通运输部所属专业救助船“东海救101”轮将于2月10日抵达南印度洋，开展马航MH370客机的后续搜寻工作。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487246.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:40</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/article/2016-02/8487230.html" title="澳两大知名超市被曝食品卫生问题" target="_blank">澳两大知名超市被曝食品卫生问题</a></h3>
+                                                  <h5>澳大利亚两大知名连锁超市伍尔沃思和科尔斯近日被曝出食品卫生问题<em>[<a href="http://world.huanqiu.com/article/2016-02/8487230.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:26</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/article/2016-02/8487226.html" title="印度西海岸13名学生游泳时溺亡" target="_blank">印度西海岸13名学生游泳时溺亡</a></h3>
+                                                  <h5>13名印度学生在西海岸沿海地区游泳时溺亡。<em>[<a href="http://world.huanqiu.com/article/2016-02/8487226.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:20</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487205.html" title="法国巴黎一周内3所中学再遭安全威胁" target="_blank">法国巴黎一周内3所中学再遭安全威胁</a></h3>
+                                                  <h5>法国首都巴黎教育部门和警方1日说，当天上午，位于巴黎第五区和第九区的3所中学接到威胁电话，警方随后抵达现场处理情况。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487205.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:14</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487186.html" title="瑞典是否会掀起欧洲多米诺效应式“退难民潮”？" target="_blank">瑞典是否会掀起欧洲多米诺效应式“退难民潮”？</a></h3>
+                                                  <h5>新年伊始，难民问题让瑞典成为欧洲乃至世界的焦点。先是政府声称要驱逐8万难民，接着一名难民收容中心的女社工遇刺，引发上百黑衣蒙面人火车站行凶事件……瑞典，这个原本是欧洲接受难民的“优等生”到底怎么了？这里会成为欧洲“退难民潮”的开端吗？瑞典的“难民问题”这几天，难民问题搅动瑞典社会。25日，瑞典一处难民收容中心的女社工被一名少年难民用刀刺死，震惊瑞典全国。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487186.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:12</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487182.html" title="印度西海岸13名学生游泳时溺亡" target="_blank">印度西海岸13名学生游泳时溺亡</a></h3>
+                                                  <h5>据法新社报道，印度警方称，当地时间2月1日，13名印度学生在西海岸沿海地区游泳时溺亡。目前，警方正在对学生们溺水的具体原因展开调查。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487182.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:12</h6>
+                </li>
+							            	<li class="item">
+                                        <a href="http://world.huanqiu.com/photo/2016-02/2820007.html" title="古巴领导人劳尔-卡斯特罗访问法国 向无名烈士墓献花" target="_blank"><img src="http://himg2.huanqiu.com/attachment2010/2016/0201/21/06/20160201090604942.jpg" alt="古巴领导人劳尔-卡斯特罗访问法国 向无名烈士墓献花"/></a>
+				                    <h3><a href="http://world.huanqiu.com/photo/2016-02/2820007.html" title="古巴领导人劳尔-卡斯特罗访问法国 向无名烈士墓献花" target="_blank">古巴领导人劳尔-卡斯特罗访问法国 向无名烈士墓献花</a></h3>
+                                                  <h5>劳尔-卡斯特罗开始对法国进行为期两天的国事访问，前往凯旋门下的无名烈士墓献花。<em>[<a href="http://world.huanqiu.com/photo/2016-02/2820007.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 21:00</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487147.html" title="喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责" target="_blank">喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责</a></h3>
+                                                  <h5>中新网2月1日电据美联社报道，当地时间2月1日，阿富汗首都喀布尔的一处警察局附近遭汽车炸弹袭击。根据目前警方的最新消息，此次袭击造成至少1人遇难，另有16人受伤。报道称阿富汗内政部发言人赛德克称，爆炸袭击发生在当天下午，喀布尔动物园附近的一处闹市区中。他表示，从目前掌握的情报来看，袭击者原本的目标是警察局。据阿富汗公共卫生部的消息，已确认有一人在袭击中身亡。但当局并未说明此人是否为袭击者。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487147.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:45</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487142.html" title="俄裔少女承认“在德国遭难民轮奸”经历系捏造" target="_blank">俄裔少女承认“在德国遭难民轮奸”经历系捏造</a></h3>
+                                                  <h5>英国《每日电讯报》1月31日报道，曾一度引起德国和俄罗斯外交争端的13岁俄裔少女在德国疑似遭到难民轮奸事件，近日发生“剧情反转”：少女承认“在德国遭难民轮奸”经历系捏造。1月11日，德国境内一个13岁俄裔少女的父母向柏林马灿区警方报警称，他们的女儿丽莎(化名)未去上学。失踪大约30个小时后，丽莎回到家中，脸上带有伤痕，并告知父母自己被一群带有中东和北非长相的男性绑架并轮奸。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487142.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:45</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487140.html" title="瑞典是否会掀起欧洲多米诺效应式“退难民潮”？" target="_blank">瑞典是否会掀起欧洲多米诺效应式“退难民潮”？</a></h3>
+                                                  <h5>新年伊始，难民问题让瑞典成为欧洲乃至世界的焦点。先是政府声称要驱逐8万难民，接着一名难民收容中心的女社工遇刺，引发上百黑衣蒙面人火车站行凶事件……瑞典，这个原本是欧洲接受难民的“优等生”到底怎么了？这里会成为欧洲“退难民潮”的开端吗？瑞典的“难民问题”这几天，难民问题搅动瑞典社会。25日，瑞典一处难民收容中心的女社工被一名少年难民用刀刺死，震惊瑞典全国。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487140.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:44</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487137.html" title="英媒：转基因蚊子或系寨卡病毒爆发的罪魁祸首" target="_blank">英媒：转基因蚊子或系寨卡病毒爆发的罪魁祸首</a></h3>
+                                                  <h5>主要由埃及伊蚊传播的寨卡病毒从南美国家巴西爆发，目前正在欧洲和美洲多个国家进一步扩散。据英国《镜报》1月31日报道，批评人士认为，寨卡病毒爆发的背后，其罪魁祸首可能是2012年投放到大自然的转基因蚊子。目前世界卫生组织(WHO)正在日内瓦开会讨论如何应对寨卡病毒，与此同时，有关该病毒爆发的原因也引发了广泛猜测。寨卡病毒第一次出现是在20世纪50年代左右，该病毒可导致胎儿患上俗称“小头症”的先天性小头畸形症。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487137.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:44</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487130.html" title="喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责" target="_blank">喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责</a></h3>
+                                                  <h5>中新网2月1日电据美联社报道，当地时间2月1日，阿富汗首都喀布尔的一处警察局附近遭汽车炸弹袭击。根据目前警方的最新消息，此次袭击造成至少1人遇难，另有16人受伤。报道称阿富汗内政部发言人赛德克称，爆炸袭击发生在当天下午，喀布尔动物园附近的一处闹市区中。他表示，从目前掌握的情报来看，袭击者原本的目标是警察局。据阿富汗公共卫生部的消息，已确认有一人在袭击中身亡。但当局并未说明此人是否为袭击者。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487130.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487128.html" title="俄裔少女承认“在德国遭难民轮奸”经历系捏造" target="_blank">俄裔少女承认“在德国遭难民轮奸”经历系捏造</a></h3>
+                                                  <h5>英国《每日电讯报》1月31日报道，曾一度引起德国和俄罗斯外交争端的13岁俄裔少女在德国疑似遭到难民轮奸事件，近日发生“剧情反转”：少女承认“在德国遭难民轮奸”经历系捏造。1月11日，德国境内一个13岁俄裔少女的父母向柏林马灿区警方报警称，他们的女儿丽莎(化名)未去上学。失踪大约30个小时后，丽莎回到家中，脸上带有伤痕，并告知父母自己被一群带有中东和北非长相的男性绑架并轮奸。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487128.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487118.html" title="喀布尔发生自杀式汽车炸弹袭击 至少10人遇难" target="_blank">喀布尔发生自杀式汽车炸弹袭击 至少10人遇难</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，当地时间2月1日下午，阿富汗首都喀布尔一处警察局外发生自杀式汽车炸弹袭击。而阿富汗内政部刚刚在其“推特”官方页面上表示，到目前为止，袭击已造成至少10人遇难。报道称，内政部表示，有10人遇难，另有20人受伤。但喀布尔警方目前将遇难人数更新到9人。内政部发言人赛德克称，爆炸袭击发生在当天下午，喀布尔动物园附近的一处闹市区中。他表示，从目前掌握的情报来看，袭击者原本的目标是警察局。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487118.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487113.html" title="大马士革连环袭击遇难人数升至76人 110人受伤" target="_blank">大马士革连环袭击遇难人数升至76人 110人受伤</a></h3>
+                                                  <h5>据俄罗斯卫星网报道，叙利亚内政称，首都大马士革恐怖袭击中的死亡人数目前已升至76人，另有110人受伤。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487113.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:42</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487106.html" title="阿富汗首都喀布尔议会大厦附近传出爆炸声" target="_blank">阿富汗首都喀布尔议会大厦附近传出爆炸声</a></h3>
+                                                  <h5>新华社快讯:据外电1日报道,阿富汗首都喀布尔议会大厦附近传出爆炸声。编辑：范斯腾关键词：阿富汗首都;爆炸声;喀布尔;议会;大厦说两句相关阅读阿富汗首都4日晚响起强烈爆炸声伤亡不明【新华社快讯】阿富汗首都喀布尔市中心4日晚响起强烈爆炸声，目前伤亡情况不明。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487106.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487101.html" title="大马士革连环袭击遇难人数升至76人 110人受伤" target="_blank">大马士革连环袭击遇难人数升至76人 110人受伤</a></h3>
+                                                  <h5>当地时间2016年1月31日，叙利亚大马士革，大马士革南郊发生连环爆炸袭击事件。一位不愿透露姓名的叙利亚安全部门消息人士当天告诉记者，大马士革南郊赛达·宰纳卜镇发生连环爆炸事件。恐怖分子先在一个公交车站旁引爆了汽车炸弹，随后在救援人员抵达时，另有两名自杀式袭击者引爆了绑在身上的炸弹。由于多人伤势较重，死亡人数可能进一步上升。目前，极端组织已宣称制造了连环爆炸袭击事件。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487101.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487094.html" title="英媒：转基因蚊子或系寨卡病毒爆发的罪魁祸首" target="_blank">英媒：转基因蚊子或系寨卡病毒爆发的罪魁祸首</a></h3>
+                                                  <h5>主要由埃及伊蚊传播的寨卡病毒从南美国家巴西爆发，目前正在欧洲和美洲多个国家进一步扩散。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487094.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:40</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/exclusive/2016-02/8487079.html" title="日方称中国逮捕一札幌男子 或为间谍嫌疑" target="_blank">日方称中国逮捕一札幌男子 或为间谍嫌疑</a></h3>
+                                                  <h5>中国方面通报称1月将其逮捕。该男子被认为涉嫌从事间谍活动<em>[<a href="http://world.huanqiu.com/exclusive/2016-02/8487079.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:15</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487060.html" title="背景资料：影响叙利亚和谈的叙主要反对派" target="_blank">背景资料：影响叙利亚和谈的叙主要反对派</a></h3>
+                                                  <h5>联合国秘书长叙利亚问题特使德米斯图拉1月31日与叙利亚主要反对派代表团举行了非正式会谈。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487060.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:12</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487059.html" title="日媒：日官房长官菅义伟称中国逮捕一札幌市男子" target="_blank">日媒：日官房长官菅义伟称中国逮捕一札幌市男子</a></h3>
+                                                  <h5>参考消息网2月1日报道日本共同社2月1日报道，日官房长官菅义伟在1日的记者会上，就被中国政府有关部门在北京刑拘的札幌市男子表示，中国方面通报称1月将其逮捕。编辑：杜静关键词：官房长官;男子;逮捕;日媒;札幌市;消息网;中国;日本共同社;1日;记者会说两句相关阅读日官房长官要求女性生育报国挨批日本内阁官房长官菅义伟最近比较烦。次日，菅义伟接受电视台采访时就福山雅治婚讯发表评论。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487059.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:12</h6>
+                </li>
+							            	<li class="item">
+                                        <a href="http://world.huanqiu.com/photo/2016-02/2820004.html" title="芭比推出新成员 高矮不一肤色各异" target="_blank"><img src="http://himg2.huanqiu.com/attachment2010/2016/0201/20/12/20160201081218805.jpg" alt="芭比推出新成员 高矮不一肤色各异"/></a>
+				                    <h3><a href="http://world.huanqiu.com/photo/2016-02/2820004.html" title="芭比推出新成员 高矮不一肤色各异" target="_blank">芭比推出新成员 高矮不一肤色各异</a></h3>
+                                                  <h5>玩具制造商美泰公司最近推出一系列新的芭比娃娃<em>[<a href="http://world.huanqiu.com/photo/2016-02/2820004.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 20:02</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487019.html" title="喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责" target="_blank">喀布尔发生爆炸袭击致1死16伤 塔利班宣称负责</a></h3>
+                                                  <h5>据美联社报道，当地时间2月1日，阿富汗首都喀布尔的一处警察局附近遭汽车炸弹袭击。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487019.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:45</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487015.html" title="俄媒：土“灰狼”组织可能参与A321客机恐怖袭击" target="_blank">俄媒：土“灰狼”组织可能参与A321客机恐怖袭击</a></h3>
+                                                  <h5>当地时间2015年10月31日，埃及西奈中部ElArish附近，埃及总理谢里夫·伊斯梅尔视察俄罗斯客机坠毁地点。一架从埃及沙姆沙伊赫飞往俄罗斯圣彼得堡的俄罗斯客机31日清晨起飞后不久坠毁于埃及西奈半岛阿里什地区南部的哈桑纳山区。机上共有217名乘客和7名机组人员，乘客多为俄罗斯游客。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487015.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:44</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487010.html" title="微软试验水下数据中心" target="_blank">微软试验水下数据中心</a></h3>
+                                                  <h5>新华社旧金山1月31日电(记者马丹)数据中心往往由数以千计的服务器组成,是散热、耗能大户。据美国媒体报道,美国微软公司正在试验水下数据中心,探索利用海水解决数据中心的制冷和供电两大问题,降低运行成本。据美国《纽约时报》1月31日报道,微软设想未来的数据中心可以设在海中,借助海水冷却服务器。微软还考虑将水下数据中心与涡轮机或潮汐发电系统相连,应对服务器、空调等设备带来的用电开支。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487010.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487008.html" title="2016年2月1日外交部发言人陆慷主持例行记者会" target="_blank">2016年2月1日外交部发言人陆慷主持例行记者会</a></h3>
+                                                  <h5>问：上周五，成都市中级人民法院判处涉嫌谋杀英籍藏族僧人阿贡活佛的2人死刑。你是否认为此案有政治动机？英方是否了解案件审理有关情况？答：关于你提到的案件具体情况，我需要了解一下再作答复。但有一个原则是，中国法院依法办事。同时，在中国法律框架范围内，我们也会对外国公民给予正当领事保护，给予外国驻华领事机构合理的探视途径和权利。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487008.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487006.html" title="俄裔少女承认“在德国遭难民轮奸”经历系捏造" target="_blank">俄裔少女承认“在德国遭难民轮奸”经历系捏造</a></h3>
+                                                  <h5>英国《每日电讯报》1月31日报道，曾一度引起德国和俄罗斯外交争端的13岁俄裔少女在德国疑似遭到难民轮奸事件，近日发生“剧情反转”：少女承认“在德<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487006.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8487003.html" title="俄媒：土“灰狼”组织可能参与A321客机恐怖袭击" target="_blank">俄媒：土“灰狼”组织可能参与A321客机恐怖袭击</a></h3>
+                                                  <h5>当地时间2015年10月31日，埃及西奈中部ElArish附近，埃及总理谢里夫·伊斯梅尔视察俄罗斯客机坠毁地点。一架从埃及沙姆沙伊赫飞往俄罗斯圣彼得堡的俄罗斯客机31日清晨起飞后不久坠毁于埃及西奈半岛阿里什地区南部的哈桑纳山区。机上共有217名乘客和7名机组人员，乘客多为俄罗斯游客。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8487003.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:43</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486991.html" title="瑞典是否会掀起欧洲多米诺效应式“退难民潮”？" target="_blank">瑞典是否会掀起欧洲多米诺效应式“退难民潮”？</a></h3>
+                                                  <h5>当天，大约200名蒙面黑衣人现身斯德哥尔摩火车站，声称要给那名“枉死在少年难民之手的瑞典女子”报仇。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486991.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486989.html" title="喀布尔警局遭汽车炸弹袭击 尚无组织宣称负责" target="_blank">喀布尔警局遭汽车炸弹袭击 尚无组织宣称负责</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，阿富汗首都喀布尔市中心的一个警察局于当地时间2月1日遭到汽车炸弹袭击。警方称，在现场发现数名被炸身亡者的遗体，但目前还不确定具体伤亡人数，以及遇难者人员的身份。报道称，到目前为止，还没有组织或个人宣称对该起袭击事件负责。但警方初步怀疑是塔利班武装所为。阿富汗内政部发言人纳吉彼称，当天，一辆载有炸弹的汽车在喀布尔警局旁发生爆炸。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486989.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486987.html" title="阿富汗首都发生自杀式袭击致10死20伤" target="_blank">阿富汗首都发生自杀式袭击致10死20伤</a></h3>
+                                                  <h5>新华社喀布尔2月1日电(记者冯之磊)阿富汗首都喀布尔1日下午发生一起自杀式爆炸袭击事件,造成至少10人死亡、20人受伤。阿富汗内政部副部长阿尤布·萨兰吉向媒体证实,伤亡者大多为平民,而且人数可能会进一步上升。另据目击者告诉新华社记者,爆炸地点临近阿富汗警方的一栋办公建筑,该建筑内设有边境警察总部、民事警察总部等重要机构。目前,阿富汗塔利班武装已宣称制造了此次袭击。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486987.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:41</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486981.html" title="日媒：日官房长官菅义伟称中国逮捕一札幌市男子" target="_blank">日媒：日官房长官菅义伟称中国逮捕一札幌市男子</a></h3>
+                                                  <h5>参考消息网2月1日报道日本共同社2月1日报道，日官房长官菅义伟在1日的记者会上，就被中国政府有关部门在北京刑拘的札幌市男子表示，中国方面通报称1月将其逮捕。编辑：杜静关键词：官房长官;男子;逮捕;日媒;札幌市;消息网;中国;日本共同社;1日;记者会说两句相关阅读日官房长官要求女性生育报国挨批日本内阁官房长官菅义伟最近比较烦。次日，菅义伟接受电视台采访时就福山雅治婚讯发表评论。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486981.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:40</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486942.html" title="美总统大选首站选前24小时：竞选者火力全开" target="_blank">美总统大选首站选前24小时：竞选者火力全开</a></h3>
+                                                  <h5>原标题：通讯：美国总统大选首站艾奥瓦选前24小时：竞选者火力全开中新社得梅因2月1日电题：美国总统大选首站艾奥瓦选前24小时：竞选者火力全开中新社记者邓敏张蔚然“我当选总统后的第一件事就是……”1月31日，在美国大选首站艾奥瓦州党团会议举行前24小时内，这句话成为前国务卿希拉里、地产大亨特朗普、得克萨斯州联邦参议员克鲁兹、佛罗里达州联邦参议员鲁比奥等两党主要竞选人的高频表态。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486942.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:18</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486935.html" title="消息简报:经济学家预测今年美国有20%几率陷入衰退" target="_blank">消息简报:经济学家预测今年美国有20%几率陷入衰退</a></h3>
+                                                  <h5>以下为中国经济网国际部2月1日编译整理的驻外记者报道和全球主要财经媒体要闻消息简报，仅供参考：预测：今年美国有20%几率陷入衰退英国《金融时报》在1月份美联储开会后的几天里对51名经济学家进行了调查，经济学家们预计，预计，今年美国有20%的几率陷入经济衰退，美联储(FederalReserve)像之前设想那样多次加息的可能性已经减小。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486935.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:17</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486932.html" title="泰总理巴育称泰国将于2017年举行大选" target="_blank">泰总理巴育称泰国将于2017年举行大选</a></h3>
+                                                  <h5>资料图：泰国总理巴育。中新社发黄艳梅摄中新网2月1日电据外媒报道，泰国总理巴育于2月1日称，泰国将于2017年举行大选。外界批评泰国上周公布的宪法草案可能令泰国大选延期。报道称，泰国于1月29日公布的宪法草案遭到了该国所有主要政党的猛烈抨击，令人担心这份草案可能在7月公投中遭否决，进而延缓泰国回归民主的进程。“2017、2017、2017年，”巴育在回应何时举行大选时明显恼怒地对记者们说道。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486932.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:16</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486926.html" title="比利时开欧盟之先包机遣送伊拉克人回国" target="_blank">比利时开欧盟之先包机遣送伊拉克人回国</a></h3>
+                                                  <h5>中新网2月1日电据俄罗斯卫星网报道，比利时负责避难及移民事务的国务秘书西奥·弗兰肯于当地时间2月1日表示，110多名自愿决定不再等待有关为他们提供在该国避难身份的最终决定的伊拉克难民，已于当天早上从布鲁塞尔飞往巴格达。报道称，据弗兰肯介绍，该国移民当局开欧盟国家之先，租赁包机遣送伊拉克人回国。媒体解释称，这些伊拉克人决定回国，是因为他们对于比利时接收难民的期望没有实现，并且该国的避难申请审查程序漫长。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486926.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:15</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486923.html" title="比利时开欧盟之先包机遣送伊拉克人回国" target="_blank">比利时开欧盟之先包机遣送伊拉克人回国</a></h3>
+                                                  <h5>视频：瑞典内政大臣澄清关于将遣返难民的说法来源：上海东方高清中新网2月1日电据俄罗斯卫星网报道，比利时负责避难及移民事务的国务秘书西奥·弗兰肯于当地时间2月1日表示，110多名自愿决定不再等待有关为他们提供在该国避难身份的最终决定的伊拉克难民，已于当天早上从布鲁塞尔飞往巴格达。报道称，据弗兰肯介绍，该国移民当局开欧盟国家之先，租赁包机遣送伊拉克人回国。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486923.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:15</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486914.html" title="原始人吃鸟蛋或致澳大利亚“牛顿巨鸟”灭绝" target="_blank">原始人吃鸟蛋或致澳大利亚“牛顿巨鸟”灭绝</a></h3>
+                                                  <h5>距今约5万年前，澳大利亚大陆曾经生活着一种叫做“牛顿巨鸟”的巨型鸟类，它身高可超过2.5米，体重可超过200公斤，是一种不会飞的鸟。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486914.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:14</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486912.html" title="韩：若朝试射远程弹道导弹将封锁开城工业园区" target="_blank">韩：若朝试射远程弹道导弹将封锁开城工业园区</a></h3>
+                                                  <h5>据日本时事通信社2月1日报道，作为在朝鲜发射远距离弹道导弹时的相关应对措施，韩国政府当局1日对朝鲜发出警告称，或将重新调整在开城工业园区与朝鲜展开的相关合作。据报道，韩国政府当局人士表示，“在朝鲜开城工业园区存在朝韩合作的生产基地，这与对朝制裁手段不相称”，同时也表示“在缩小园区及安全管理方面我们会如何进行，这也取决于朝方的态度”。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486912.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:14</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486904.html" title="喀布尔警局遭汽车炸弹袭击 尚无组织宣称负责" target="_blank">喀布尔警局遭汽车炸弹袭击 尚无组织宣称负责</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，阿富汗首都喀布尔市中心的一个警察局于当地时间2月1日遭到汽车炸弹袭击。警方称，在现场发现数名被炸身亡者的遗体，但目前还不确定具体伤亡人数，以及遇难者人员的身份。报道称，到目前为止，还没有组织或个人宣称对该起袭击事件负责。但警方初步怀疑是塔利班武装所为。阿富汗内政部发言人纳吉彼称，当天，一辆载有炸弹的汽车在喀布尔警局旁发生爆炸。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486904.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:13</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486896.html" title="阿富汗喀布尔一处警察局遭袭击 已有数人遇难" target="_blank">阿富汗喀布尔一处警察局遭袭击 已有数人遇难</a></h3>
+                                                  <h5>中新网2月1日电据法新社报道，阿富汗首都喀布尔市中心的一处警察局，于当地时间2月1日遭到爆炸袭击。报道称，据警方介绍，此次袭击造成数人遇难，但具体伤亡人数还未进行统计。据悉，爆炸发生后，立刻有多辆救护车赶到了现场进行救援。但到目前为止，阿富汗当局还未对此次袭击事件发表任何评论，而且也没有组织或个人宣称对此事件负责。另有报道称，发生爆炸的地点在喀布尔议会大厦附近。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486896.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 19:12</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486866.html" title="外交部回应"2人涉嫌谋杀英籍藏族僧人被判死刑"" target="_blank">外交部回应"2人涉嫌谋杀英籍藏族僧人被判死刑"</a></h3>
+                                                  <h5>中国网2月1日讯在今日的外交部例行记者会上，有记者问：上周五，成都市中级人民法院判处涉嫌谋杀英籍藏族僧人阿贡活佛的2人死刑。你是否认为此案有政治动机？英方是否了解案件审理有关情况？外交部发言人陆慷答：关于你提到的案件具体情况，我需要了解一下再作答复。但有一个原则是，中国法院依法办事。同时，在中国法律框架范围内，我们也会对外国公民给予正当领事保护，给予外国驻华领事机构合理的探视途径和权利。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486866.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 18:48</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486863.html" title="寨卡病毒在多国蔓延 外交部提醒相关中国公民防疫" target="_blank">寨卡病毒在多国蔓延 外交部提醒相关中国公民防疫</a></h3>
+                                                  <h5>中国网2月1日讯在今日的外交部例行记者会上，有记者问：近来，寨卡病毒在一些拉美国家持续蔓延。中方对此有何评价？中方是否会同拉方开展防疫合作，或向拉方提供相关援助？外交部发言人陆慷答：近期，美洲多个国家相继出现寨卡病毒感染病例，欧洲、亚洲、大洋洲也有输入病例报告。<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486863.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 18:48</h6>
+                </li>
+							            	<li class="item">
+                                        <h3><a href="http://world.huanqiu.com/hot/2016-02/8486858.html" title="日本留学支援项目陷入苦战 高额资助招不满学生" target="_blank">日本留学支援项目陷入苦战 高额资助招不满学生</a></h3>
+                                                  <h5>中新网2月1日电据日媒报道，在日本，面向想在海外学习的大学生推出的国家新留学支援项目陷入意料之外的苦战。尽管每半年招募500人，并打出不必偿还且最高资助560万日元的优厚条件，但最近两次均未招满。对于萎靡不振的出国留学生人数，日本政府提出了到2020年倍增至12万人的目标。日本文部科学省还呼吁称：“既不问成绩，也不问语言能力。大家尽管来报名。”据报道，该项目名为“起飞！<em>[<a href="http://world.huanqiu.com/hot/2016-02/8486858.html" target="_blank">详细</a>]</em></h5>
+				                    <h6><span></span>2016-02-01 18:47</h6>
+                </li>
+							            </ul>        	        	            
+        </div>
+        <!-- 内容第一部分 end-->
+
+		
+		<div class="pageBox">
+                    <div id="pages" class="text-c"><a class="a1">1800条</a> <a href="http://world.huanqiu.com/article/index.html" class="a1">上一页</a> <span>1</span> <a href="http://world.huanqiu.com/article/2.html">2</a> <a href="http://world.huanqiu.com/article/3.html">3</a> <a href="http://world.huanqiu.com/article/4.html">4</a> <a href="http://world.huanqiu.com/article/5.html">5</a> <a href="http://world.huanqiu.com/article/6.html">6</a> <a href="http://world.huanqiu.com/article/7.html">7</a> <a href="http://world.huanqiu.com/article/8.html">8</a> <a href="http://world.huanqiu.com/article/9.html">9</a> <a href="http://world.huanqiu.com/article/10.html">10</a> ..<a href="http://world.huanqiu.com/article/30.html">30</a> <a href="http://world.huanqiu.com/article/2.html" class="a1">下一页</a></div>
+        </div>
+        <!-- 翻页按钮 end -->
+        
+    </div>
+    <!-- 内容部分 end-->
+</div>
+
+<!-- 尾巴 begin -->
+<div class="footOutNew m_hide">
+    <!-- 其他 begin -->
+    <div class="fotherNew">
+        <ul>
+            <li class="fir">
+                <h3>环球无线</h3>
+                <div class="iconList">
+                    <a href="http://mobile.huanqiu.com/#paperBox" target="_blank">环球时报客户端</a>
+                    <a href="http://mobile.huanqiu.com/#mobileBox" target="_blank">手机环球网</a>
+                </div>
+            </li>
+            <li class="sec">
+                <h3>推荐服务</h3>
+                <div class="iconList">
+                    <a href="http://www.huanqiu.com/weibo.html" target="_blank">环球网-官方微博</a>
+                    <a href="http://rss.huanqiu.com/" target="_blank">RSS订阅</a>
+                    <a href="http://dl.baofeng.com/BFVCenter/kb-huanqiu-0125.exe" target="_blank">环球网-桌面版</a>
+                    <a href="http://rank.huanqiu.com/" target="_blank">资讯排行</a>
+
+                </div>
+            </li>
+            <li class="last">
+                <h3>环球时报系产品</h3>
+                <div class="iconList">
+                    <a href="http://data.huanqiu.com/" target="_blank">环球时报版权数据库</a>
+                    <a href="http://www.lifetimes.cn/" class="footTxtLife" target="_blank">生命时报</a>
+                    <a href="http://hd.globaltimes.cn/" target="_blank">品牌活动</a>
+                    <a href="http://www.globaltraveler.com.cn/" target="_blank">环球旅游周刊</a>
+                    <a href="http://www.gtfoundation.cn/" target="_blank">环球时报公益基金会</a>
+                    <a href="http://humor.huanqiu.com/" class="footTxtLife" target="_blank">讽刺与幽默</a>
+                    <a href="http://www.globalsurvey.com.cn/" target="_blank">舆情中心</a>
+                    <a href="http://www.globaltimes.cn/" target="_blank">GlobalTimes</a>
+
+                </div>
+            </li>
+      </ul>
+    </div>
+    <!-- 其他 end -->
+                    
+</div>
+<script type="text/javascript" src="http://toys.m.people.cn/apps/lc/front/rs/js/performance.js"></script>
+<div class="fLinkNew m_hide">
+    <div class="flinkMainNew marWidMain">
+        <a href="http://corp.huanqiu.com/about/" target="_blank">环球网简介</a><em>|</em>
+        <a href="http://corp.huanqiu.com/aboutus/" target="_blank">About huanqiu.com</a><em>|</em>
+        <a href="http://www.huanqiu.com/sitemap.html" target="_blank">网站地图</a><em>|</em>
+        <a href="http://www.huanqiu.com/weibo.html" target="_blank">官方微博</a><em>|</em>
+        <a href="http://corp.huanqiu.com/jobs/" target="_blank">诚聘英才</a><em>|</em>
+        <a href="http://corp.huanqiu.com/advertising_services/" target="_blank">广告服务</a><em>|</em>
+        <a href="http://corp.huanqiu.com/contactus/" target="_blank">联系方式</a><em>|</em>
+        <a href="http://corp.huanqiu.com/privacy_policy/" target="_blank">隐私政策</a><em>|</em>
+        <a href="http://corp.huanqiu.com/terms/" target="_blank">服务条款</a><em>|</em>
+        <a href="mailto:jubao@huanqiu.com" target="_blank">意见反馈</a>
+    </div>
+</div>
+<!-- 尾巴 end -->
+<script src="http://himg2.huanqiu.com/statics/hq2013/js/lib/jquery1.9.1.js" type="text/javascript"></script>
+
+<script src="http://himg2.huanqiu.com/statics/hq2013/js/sea.js" type="text/javascript" data-main="http://himg2.huanqiu.com/statics/hq2013/allMinJs/hqnews/index.min.js"></script>
+</body>
+</html>
