@@ -97,7 +97,7 @@ class MyShareSpider(Spider):
         for post in posts:
             articel = post.xpath("div[@class='content']")
             title = articel.xpath("h3/a/text()").extract()[0].strip()
-            href= articel.xpath("h3/a[@href]").xpath("@href").extract()[0].strip()
+            href= "https://toutiao.io" + articel.xpath("h3/a[@href]").xpath("@href").extract()[0].strip()
             source =  articel.xpath("div[@class='meta']/text()").extract()[0].strip()
             item = SharesItem()
             item["title"] = title
