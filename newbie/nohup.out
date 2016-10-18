@@ -1,0 +1,63 @@
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] MongoDB starting : pid=9248 port=27017 dbpath=/var/lib/mongodb 64-bit host=dhui100
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] db version v3.2.4
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] git version: e2ee9ffcf9f5a94fad76802e28cc978718bb7a30
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.0.1f 6 Jan 2014
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] allocator: tcmalloc
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] modules: none
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] build environment:
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten]     distmod: ubuntu1404
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten]     distarch: x86_64
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten]     target_arch: x86_64
+2016-10-18T16:32:43.390+0800 I CONTROL  [initandlisten] options: { storage: { dbPath: "/var/lib/mongodb" } }
+2016-10-18T16:32:43.424+0800 I -        [initandlisten] Detected data files in /var/lib/mongodb created by the 'wiredTiger' storage engine, so setting the active storage engine to 'wiredTiger'.
+2016-10-18T16:32:43.430+0800 W -        [initandlisten] Detected unclean shutdown - /var/lib/mongodb/mongod.lock is not empty.
+2016-10-18T16:32:43.430+0800 W STORAGE  [initandlisten] Recovering data from the last clean checkpoint.
+2016-10-18T16:32:43.430+0800 I STORAGE  [initandlisten] wiredtiger_open config: create,cache_size=4G,session_max=20000,eviction=(threads_max=4),config_base=false,statistics=(fast),log=(enabled=true,archive=true,path=journal,compressor=snappy),file_manager=(close_idle_time=100000),checkpoint=(wait=60,log_size=2GB),statistics_log=(wait=0),
+2016-10-18T16:32:49.011+0800 I STORAGE  [initandlisten] Starting WiredTigerRecordStoreThread local.oplog.rs
+2016-10-18T16:32:49.011+0800 I STORAGE  [initandlisten] The size storer reports that the oplog contains 11 records totaling to 1168 bytes
+2016-10-18T16:32:49.011+0800 I STORAGE  [initandlisten] Scanning the oplog to determine where to place markers for truncation
+2016-10-18T16:32:49.534+0800 I CONTROL  [initandlisten] ** WARNING: You are running this process as the root user, which is not recommended.
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] 
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] 
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] ** WARNING: /sys/kernel/mm/transparent_hugepage/enabled is 'always'.
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] **        We suggest setting it to 'never'
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] 
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] ** WARNING: /sys/kernel/mm/transparent_hugepage/defrag is 'always'.
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] **        We suggest setting it to 'never'
+2016-10-18T16:32:49.535+0800 I CONTROL  [initandlisten] 
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] 
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] ** WARNING: mongod started without --replSet yet 1 documents are present in local.system.replset
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] **          Restart with --replSet unless you are doing maintenance and  no other clients are connected.
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] **          The TTL collection monitor will not start because of this.
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] **         
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten]  For more info see http://dochub.mongodb.org/core/ttlcollections
+2016-10-18T16:32:49.638+0800 I STORAGE  [initandlisten] 
+2016-10-18T16:32:49.638+0800 I FTDC     [initandlisten] Initializing full-time diagnostic data capture with directory '/var/lib/mongodb/diagnostic.data'
+2016-10-18T16:32:49.638+0800 I NETWORK  [HostnameCanonicalizationWorker] Starting hostname canonicalization worker
+2016-10-18T16:32:49.651+0800 I NETWORK  [initandlisten] waiting for connections on port 27017
+2016-10-18T16:32:49.818+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59077 #1 (1 connection now open)
+2016-10-18T16:32:49.851+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59078 #2 (2 connections now open)
+2016-10-18T16:32:50.029+0800 I FTDC     [ftdc] Unclean full-time diagnostic data capture shutdown detected, found interim file, some metrics may have been lost. OK
+2016-10-18T16:32:50.626+0800 I COMMAND  [conn2] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1273 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2548 } }, Database: { acquireCount: { r: 1274 } }, Collection: { acquireCount: { r: 1274 } } } protocol:op_query 768ms
+2016-10-18T16:32:53.193+0800 I NETWORK  [conn2] end connection 127.0.0.1:59078 (1 connection now open)
+2016-10-18T16:32:53.193+0800 I NETWORK  [conn1] end connection 127.0.0.1:59077 (1 connection now open)
+2016-10-18T16:34:16.200+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59088 #3 (1 connection now open)
+2016-10-18T16:34:16.203+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59089 #4 (2 connections now open)
+2016-10-18T16:34:16.310+0800 I COMMAND  [conn4] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1264 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2530 } }, Database: { acquireCount: { r: 1265 } }, Collection: { acquireCount: { r: 1265 } } } protocol:op_query 106ms
+2016-10-18T16:34:18.899+0800 I NETWORK  [conn4] end connection 127.0.0.1:59089 (1 connection now open)
+2016-10-18T16:34:18.899+0800 I NETWORK  [conn3] end connection 127.0.0.1:59088 (1 connection now open)
+2016-10-18T16:34:28.291+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59091 #5 (1 connection now open)
+2016-10-18T16:34:28.293+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59092 #6 (2 connections now open)
+2016-10-18T16:34:28.398+0800 I COMMAND  [conn6] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1264 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2530 } }, Database: { acquireCount: { r: 1265 } }, Collection: { acquireCount: { r: 1265 } } } protocol:op_query 104ms
+2016-10-18T16:34:31.033+0800 I NETWORK  [conn6] end connection 127.0.0.1:59092 (1 connection now open)
+2016-10-18T16:34:31.033+0800 I NETWORK  [conn5] end connection 127.0.0.1:59091 (1 connection now open)
+2016-10-18T16:34:47.967+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59097 #7 (1 connection now open)
+2016-10-18T16:34:47.970+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59098 #8 (2 connections now open)
+2016-10-18T16:34:48.075+0800 I COMMAND  [conn8] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1264 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2530 } }, Database: { acquireCount: { r: 1265 } }, Collection: { acquireCount: { r: 1265 } } } protocol:op_query 104ms
+2016-10-18T16:35:04.108+0800 I NETWORK  [conn8] end connection 127.0.0.1:59098 (1 connection now open)
+2016-10-18T16:35:04.108+0800 I NETWORK  [conn7] end connection 127.0.0.1:59097 (1 connection now open)
+2016-10-18T16:35:43.337+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59105 #9 (1 connection now open)
+2016-10-18T16:35:43.339+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59106 #10 (2 connections now open)
+2016-10-18T16:35:43.446+0800 I COMMAND  [conn10] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1264 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2530 } }, Database: { acquireCount: { r: 1265 } }, Collection: { acquireCount: { r: 1265 } } } protocol:op_query 106ms
+2016-10-18T16:37:13.042+0800 I NETWORK  [conn9] end connection 127.0.0.1:59105 (1 connection now open)
+2016-10-18T16:37:13.043+0800 I NETWORK  [conn10] end connection 127.0.0.1:59106 (0 connections now open)

@@ -24,3 +24,7 @@ class SubjectsItem(scrapy.Item):
     sub_count = scrapy.Field()
     url = scrapy.Field()
     _id = scrapy.Field()
+
+class UserItem(scrapy.Item):
+    url = scrapy.Field()
+    name = scrapy.Field()
