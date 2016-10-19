@@ -41,7 +41,14 @@ class Collections:
             host=NEWBIE_MONGODB_HOST,
             port=NEWBIE_MONGODB_PORT,
         ),
-
+        account=dict(
+            coll_name="account",
+            db_name="newbie",
+            username="",
+            password="",
+            host=NEWBIE_MONGODB_HOST,
+            port=NEWBIE_MONGODB_PORT,
+        ),
     )
 
     @classmethod

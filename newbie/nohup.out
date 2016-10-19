@@ -61,3 +61,61 @@
 2016-10-18T16:35:43.446+0800 I COMMAND  [conn10] command newbie.subject command: find { find: "subject", filter: {}, sort: { count: -1 }, limit: 100 } planSummary: COLLSCAN keysExamined:0 docsExamined:161792 hasSortStage:1 cursorExhausted:1 keyUpdates:0 writeConflicts:0 numYields:1264 nreturned:100 reslen:13972 locks:{ Global: { acquireCount: { r: 2530 } }, Database: { acquireCount: { r: 1265 } }, Collection: { acquireCount: { r: 1265 } } } protocol:op_query 106ms
 2016-10-18T16:37:13.042+0800 I NETWORK  [conn9] end connection 127.0.0.1:59105 (1 connection now open)
 2016-10-18T16:37:13.043+0800 I NETWORK  [conn10] end connection 127.0.0.1:59106 (0 connections now open)
+2016-10-18T16:43:47.616+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59198 #11 (1 connection now open)
+2016-10-18T16:43:48.523+0800 I NETWORK  [conn11] end connection 127.0.0.1:59198 (0 connections now open)
+2016-10-18T16:44:06.650+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59201 #12 (1 connection now open)
+2016-10-18T16:46:56.172+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59253 #13 (2 connections now open)
+2016-10-18T16:47:16.833+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59256 #14 (3 connections now open)
+2016-10-18T16:47:50.811+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T16:49:28.261+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59292 #15 (4 connections now open)
+2016-10-18T16:49:28.496+0800 I COMMAND  [conn15] command dhuicredit.log command: insert { insert: "log", ordered: true, documents: [ { headers: {}, _id: ObjectId('5805e21887b24429ed7d50b2'), params: "", time: "2016-10-18 16:49:28", response: { data: {}, return_code: "手机或邮箱不存在！", success: 0, error_msg: "Traceback (most recent call last):
+  File "/home/dhui100/develop/dhui/dhuicredit/../dhuicredit/handlers/user.py", line 594, in post
+    raise Exceptio..." }, remote_ip: "::1", type: "normal", method: "POST", uri: "/api/user/admin/signin" } ] } ninserted:1 keyUpdates:0 writeConflicts:0 numYields:0 reslen:40 locks:{ Global: { acquireCount: { r: 1, w: 1 } }, Database: { acquireCount: { w: 1 } }, Collection: { acquireCount: { w: 1 } } } protocol:op_query 218ms
+2016-10-18T16:49:42.083+0800 I WRITE    [conn15] update dhuicredit.user query: { _id: ObjectId('57ba603f87b24429d34be082') } update: { username: "", city: "", _id: ObjectId('57ba603f87b24429d34be082'), create_date: new Date(1471860927148), invitation_mobile: "", mobile: "15996458299", province: "", login_date: new Date(1476809381892), sex: 0, privilege: 0, type: [ "back", "后端用户" ], user_auth_type: [ "not_auth", "未认证" ], admin_password: "dhui123", write_date: "", address: "", active: 0, headimgurl: "", password: "dhui123", nickname: "", email: "1061794187@qq.com" } keysExamined:1 docsExamined:1 nMatched:1 nModified:1 keyUpdates:0 writeConflicts:0 numYields:1 locks:{ Global: { acquireCount: { r: 2, w: 2 } }, Database: { acquireCount: { w: 2 } }, Collection: { acquireCount: { w: 2 } } } 190ms
+2016-10-18T16:49:42.083+0800 I COMMAND  [conn15] command dhuicredit.$cmd command: update { update: "user", ordered: true, updates: [ { q: { _id: ObjectId('57ba603f87b24429d34be082') }, u: { username: "", city: "", _id: ObjectId('57ba603f87b24429d34be082'), create_date: new Date(1471860927148), invitation_mobile: "", mobile: "15996458299", province: "", login_date: new Date(1476809381892), sex: 0, privilege: 0, type: [ "back", "后端用户" ], user_auth_type: [ "not_auth", "未认证" ], admin_password: "dhui123", write_date: "", address: "", active: 0, headimgurl: "", password: "dhui123", nickname: "", email: "1061794187@qq.com" }, multi: false, upsert: true } ] } keyUpdates:0 writeConflicts:0 numYields:0 reslen:55 locks:{ Global: { acquireCount: { r: 2, w: 2 } }, Database: { acquireCount: { w: 2 } }, Collection: { acquireCount: { w: 2 } } } protocol:op_query 190ms
+2016-10-18T16:50:10.095+0800 I NETWORK  [conn15] end connection 127.0.0.1:59292 (3 connections now open)
+2016-10-18T16:50:10.095+0800 I NETWORK  [conn14] end connection 127.0.0.1:59256 (3 connections now open)
+2016-10-18T16:50:10.095+0800 I NETWORK  [conn13] end connection 127.0.0.1:59253 (3 connections now open)
+2016-10-18T16:50:10.095+0800 I NETWORK  [conn12] end connection 127.0.0.1:59201 (0 connections now open)
+2016-10-18T17:02:52.255+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T17:14:58.638+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59462 #16 (1 connection now open)
+2016-10-18T17:16:32.659+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59479 #17 (2 connections now open)
+2016-10-18T17:16:32.785+0800 I COMMAND  [conn17] command dhuicredit.auth command: count { count: "auth", query: { _id: ObjectId('579704d009a057228c35cc68') } } planSummary: IDHACK keyUpdates:0 writeConflicts:0 numYields:0 reslen:62 locks:{ Global: { acquireCount: { r: 2 } }, Database: { acquireCount: { r: 1 } }, Collection: { acquireCount: { r: 1 } } } protocol:op_query 124ms
+2016-10-18T17:17:01.285+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59483 #18 (3 connections now open)
+2016-10-18T17:17:17.093+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59491 #19 (4 connections now open)
+2016-10-18T17:17:53.748+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T17:19:03.102+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59503 #20 (5 connections now open)
+2016-10-18T17:19:03.122+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59504 #21 (6 connections now open)
+2016-10-18T17:19:14.494+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59506 #22 (7 connections now open)
+2016-10-18T17:20:31.572+0800 I NETWORK  [conn17] end connection 127.0.0.1:59479 (6 connections now open)
+2016-10-18T17:20:31.573+0800 I NETWORK  [conn16] end connection 127.0.0.1:59462 (6 connections now open)
+2016-10-18T17:20:31.572+0800 I NETWORK  [conn19] end connection 127.0.0.1:59491 (6 connections now open)
+2016-10-18T17:20:31.572+0800 I NETWORK  [conn18] end connection 127.0.0.1:59483 (6 connections now open)
+2016-10-18T17:20:32.438+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59522 #23 (4 connections now open)
+2016-10-18T17:20:35.189+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59529 #24 (5 connections now open)
+2016-10-18T17:20:44.607+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59530 #25 (6 connections now open)
+2016-10-18T17:20:48.661+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59537 #26 (7 connections now open)
+2016-10-18T17:20:53.662+0800 I NETWORK  [conn26] end connection 127.0.0.1:59537 (6 connections now open)
+2016-10-18T17:20:53.662+0800 I NETWORK  [conn24] end connection 127.0.0.1:59529 (6 connections now open)
+2016-10-18T17:20:53.662+0800 I NETWORK  [conn23] end connection 127.0.0.1:59522 (6 connections now open)
+2016-10-18T17:20:53.662+0800 I NETWORK  [conn25] end connection 127.0.0.1:59530 (6 connections now open)
+2016-10-18T17:20:55.350+0800 I NETWORK  [initandlisten] connection accepted from 127.0.0.1:59539 #27 (4 connections now open)
+2016-10-18T17:20:57.406+0800 I NETWORK  [conn27] end connection 127.0.0.1:59539 (3 connections now open)
+2016-10-18T17:32:54.700+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T17:47:55.063+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T18:02:56.416+0800 W NETWORK  [HostnameCanonicalizationWorker] Failed to obtain name info for: [ (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known"), (202.102.110.203, "Name or service not known") ]
+2016-10-18T18:06:25.343+0800 I NETWORK  [conn21] end connection 127.0.0.1:59504 (2 connections now open)
+2016-10-18T18:06:25.343+0800 I NETWORK  [conn22] end connection 127.0.0.1:59506 (1 connection now open)
+2016-10-18T18:06:25.343+0800 I NETWORK  [conn20] end connection 127.0.0.1:59503 (0 connections now open)
+2016-10-18T18:06:32.237+0800 I CONTROL  [signalProcessingThread] got signal 15 (Terminated), will terminate after current cmd ends
+2016-10-18T18:06:32.237+0800 I FTDC     [signalProcessingThread] Shutting down full-time diagnostic data capture
+2016-10-18T18:06:32.238+0800 I CONTROL  [signalProcessingThread] now exiting
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] shutdown: going to close listening sockets...
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] closing listening socket: 5
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] closing listening socket: 6
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] removing socket file: /tmp/mongodb-27017.sock
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] shutdown: going to flush diaglog...
+2016-10-18T18:06:32.238+0800 I NETWORK  [signalProcessingThread] shutdown: going to close sockets...
+2016-10-18T18:06:32.239+0800 I STORAGE  [signalProcessingThread] WiredTigerKVEngine shutting down
+2016-10-18T18:06:33.894+0800 I STORAGE  [signalProcessingThread] shutdown: removing fs lock...
+2016-10-18T18:06:33.894+0800 I CONTROL  [signalProcessingThread] dbexit:  rc: 0
