@@ -14,7 +14,6 @@ from scrapy.shell import inspect_response
 import newbie.mongo as mongo
 
 import pdb
-link_coll = mongo.get_coll("subject")
 
 def parse_text(extract):
     if len(extract) == 0 :

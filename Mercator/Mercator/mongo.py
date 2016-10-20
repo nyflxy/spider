@@ -57,6 +57,30 @@ class Collections:
             host=NEWBIE_MONGODB_HOST,
             port=NEWBIE_MONGODB_PORT,
         ),
+        urls=dict(
+            coll_name="urls",
+            db_name="newbie",
+            username="",
+            password="",
+            host=NEWBIE_MONGODB_HOST,
+            port=NEWBIE_MONGODB_PORT,
+        ),
+        search_urls=dict(
+            coll_name="search_urls",
+            db_name="newbie",
+            username="",
+            password="",
+            host=NEWBIE_MONGODB_HOST,
+            port=NEWBIE_MONGODB_PORT,
+        ),
+        index=dict(
+            coll_name="index",
+            db_name="newbie",
+            username="",
+            password="",
+            host=NEWBIE_MONGODB_HOST,
+            port=NEWBIE_MONGODB_PORT,
+        ),
     )
 
     @classmethod

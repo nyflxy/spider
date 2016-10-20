@@ -1,0 +1,20 @@
+
+通用爬虫涉及到的五个模块
+
+1. 域名解析和网页下载
+
+  urllib2 + tornado
+
+2. 网页相似度与去重
+
+3. URL提取，筛选，去重
+scrapy spider
+
+4. URL Set
+redis 
+
+5. 爬虫引擎
+tornado
+
+6. 分布式
+scrapy-redis

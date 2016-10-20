@@ -13,7 +13,7 @@ class MyShareSpider(Spider):
     name = "subjects"
     allowed_domains = ["toutiao.io"]
     start_urls  = []
-    for i in range(1,1000000):
+    for i in range(1,2):
         start_urls.append("http://toutiao.io/subjects/"+str(i))
 
     def parse(self, response):
