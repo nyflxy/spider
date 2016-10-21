@@ -28,10 +28,10 @@ def get_new_url():
 
 import Queue
 QueueSet = Queue.Queue()
+graph = {}
 
 index_coll = mongo.get_coll("index")
-graph = []
-
+graph_coll = mongo.get_coll("graph")
 coll = mongo.get_coll("search_urls")
 
 class SearchEngineSpider(scrapy.Spider):
@@ -45,7 +45,8 @@ class SearchEngineSpider(scrapy.Spider):
         sel = Selector(response)
         links = sel.xpath("//a")
         for link in links:
-            self.addqueue(link)
+            url = parse_text(link.xpath("@href").extract())
+            self.addqueue(url)
 
         print "==========QueueSet.qsize()============", QueueSet.qsize()
         while QueueSet.qsize():
@@ -55,32 +56,41 @@ class SearchEngineSpider(scrapy.Spider):
                 callback=self.parse_new,
             )
 
-    def addqueue(self,link):
-        url = parse_text(link.xpath("@href").extract())
+    def parse_new(self, response):
+        sel = Selector(response)
+
+        p_url = response._get_url()
+        content = sel.extract()
+        self.add_page_to_index(index_coll, p_url, content)
+        global graph
+        graph_urls = graph[p_url] = []
+        links = sel.xpath("//a")
+        for link in links:
+            url = parse_text(link.xpath("@href").extract())
+            graph_urls.append(url)
+            self.addqueue(url)
+
+        graph_objs = graph_coll.find()
+        if len(graph_objs) == 0:
+            graph_coll.insert_one(graph)
+        else:
+            graph_obj = graph_objs[0]
+            graph_coll.update(graph_obj,graph)
+
+        print "==========QueueSet.qsize()============", QueueSet.qsize()
+        while QueueSet.qsize():
+            url = QueueSet.get(block=0)
+            yield scrapy.Request(
+                url=url,
+                callback=self.parse_new,
+            )
+
+    def addqueue(self, url):
         if url.find("udacity.com") > 0 and (url.find("https://") == 0 or url.find("http://") == 0):
             if not coll.find_one({"url": url}):
                 coll.insert_one({"url": url})
                 print url
                 QueueSet.put(url, block=0)
-
-    def parse_new(self, response):
-        sel = Selector(response)
-
-        url = response._get_url()
-        content = sel.extract()
-        self.add_page_to_index(index_coll, url, content)
-
-        links = sel.xpath("//a")
-        for link in links:
-            self.addqueue(link)
-
-        print "==========QueueSet.qsize()============", QueueSet.qsize()
-        while QueueSet.qsize():
-            url = QueueSet.get(block=0)
-            yield scrapy.Request(
-                url=url,
-                callback=self.parse_new,
-            )
 
     # --------------------------------build_index-----------------------------------
     def add_page_to_index(self,index_coll, url, content):

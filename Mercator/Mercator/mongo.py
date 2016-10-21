@@ -81,6 +81,14 @@ class Collections:
             host=NEWBIE_MONGODB_HOST,
             port=NEWBIE_MONGODB_PORT,
         ),
+        graph=dict(
+            coll_name="graph",
+            db_name="newbie",
+            username="",
+            password="",
+            host=NEWBIE_MONGODB_HOST,
+            port=NEWBIE_MONGODB_PORT,
+        ),
     )
 
     @classmethod
