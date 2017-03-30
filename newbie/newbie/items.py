@@ -28,3 +28,13 @@ class SubjectsItem(scrapy.Item):
 class UserItem(scrapy.Item):
     url = scrapy.Field()
     name = scrapy.Field()
+
+#主题相关链接抓取
+class TagcrawlerItem(scrapy.Item):
+    tag = scrapy.Field()
+
+#博客链接
+class BlogItem(scrapy.Item):
+    blog_href = scrapy.Field()
+    blog_name = scrapy.Field()
+
